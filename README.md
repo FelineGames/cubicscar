@@ -1,13 +1,29 @@
-# Cubyz Reworked
-This Pack completely overhauls and reworks the textures & visuals of Cubyz to be as close as possible to Minecraft.
+## Cubic Scar - Cubyz RP 💍
 
-It Includes Block Changes, UI Modification, Panorama Change and MORE!
+> **The Official Source Code for Cubic Scar**
 
-# Screenshots
-<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/511a25e4-9dca-4617-ad93-c2a03fd69da5" />
-<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/34d5ccce-5130-4931-b011-042057b762c1" />
+[![License:](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/FelineGames/cubicscar)](https://github.com/FelineGames/cubicscar/issues)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue)](https://github.com/FelineGames/forge/discussions)
 
-# Legal
-It's Open-Source Under MIT License but most pixel art work is a © copyright of Mojang Studios and Use of it is generally permitted.
+## Introduction 👐
 
-This Project on Github 2025-26 is neither affiliated with Minecraft nor Cubyz and is purely a Fan Made User-generated Content!
+• This Pack Completely Re-imagines and Reworks the Game's Identity closer to Minecraft.
+
+• It Includes Modification to HUD Elements, Items, Blocks and UI Textures/Sprites.
+
+• The Following Releases are available: _0.0.x_, _0.1.x_, _0.4.x_ and _dev_.
+
+## Screenshots 💭
+<img width="475" height="246" alt="image" src="https://github.com/user-attachments/assets/511a25e4-9dca-4617-ad93-c2a03fd69da5" />
+
+---
+
+<img width="475" height="200" alt="image" src="https://github.com/user-attachments/assets/34d5ccce-5130-4931-b011-042057b762c1" />
+
+## Legal 📜
+• It's Open-Source Under the permissive MIT License.
+
+• Resources provided under the Repository are the Copyright © of Mojang
+
+• This Repository is neither affiliated with Mojang nor Cubyz and is purely an UGC!
